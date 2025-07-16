@@ -27,5 +27,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     Username: <input type="text" name="username" required><br>
     Password: <input type="password" name="password" required><br>
     <button type="submit">Login</button>
+    <a href="register.php">register</a>
 </center>
 </form>
